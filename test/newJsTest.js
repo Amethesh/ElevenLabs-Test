@@ -4,7 +4,7 @@ import https from "https"
 import fs from "fs"
 
 // Please insert your xi-api-key below
-const xiApiKey = "1705d1eafb2fdd7eacedfb3b86e2b89d";
+const xiApiKey = "";
 const voiceId = "V9hVOl0xjZYL2dpUEGUT";
 
 // Fetch your voices
